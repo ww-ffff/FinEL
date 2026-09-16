@@ -1,6 +1,6 @@
 # FinEL: A Large-Scale Benchmark for Financial Entity Linking
 
-entity linking dataset for  Large Language Models texting and training
+Entity Linking dataset for  Large Language Models texting and training
 
 ## Overview
 
